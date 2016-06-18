@@ -34,7 +34,7 @@
 
 namespace upm {
 
-#define TSL2561_Address          (0x29)  //Device address
+#define TSL2561_Address          (0x39)  //Device address
 
 // Integration time
 #define  INTEGRATION_TIME0_13MS  (0x00)  // 13.7ms
