@@ -50,7 +50,7 @@ set (CMAKE_SWIG_FLAGS "")
 
 option (BUILDDOC "Build all doc." OFF)
 option (BUILDSWIG "Build swig modules." ON)
-option (BUILDSWIGPYTHON "Build swig python modules." ON)
+option (BUILDSWIGPYTHON "Build swig python modules." OFF)
 option (BUILDPYTHON3 "Use python3 for building/installing/testing" OFF)
 option (BUILDSWIGNODE "Build swig node modules." ON)
 option (BUILDEXAMPLES "Build C++ example binaries" ON)
